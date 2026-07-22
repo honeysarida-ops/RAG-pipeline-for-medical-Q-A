@@ -9,6 +9,7 @@ Key results vs. the baseline RAG system:
 🔍 +56% improvement in retrieval precision 
 📊 +13.83% improvement in ranking quality (MRR)
 🧭 +4.59% improvement in relevance ranking (NDCG)
+
 Beyond the numbers, this project pushed me to think like both an analyst and an auditor: testing where the system's evidence held up, where it didn't, and being honest about the gaps — like the recall trade-off, and the challenges complex medical terminology and multi-step clinical reasoning still pose for retrieval systems.
 
 Next steps I'm exploring: domain-specific embeddings, knowledge graph-based entity linking, and multi-hop retrieval to handle more complex questions.
