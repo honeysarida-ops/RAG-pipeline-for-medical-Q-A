@@ -19,4 +19,4 @@ Basic LLMs in the medical domain (e.g. plain ChatGPT responses) rely on outdated
 - Skipped heavy chunking — MedQA questions are naturally short, self-contained units, so each question was treated as one retrieval unit rather than needing to be split further
 
 ---
-**Next:** [2. Indexing →](02-indexing.md)
+**Next:** [2. INDEXING →](02-indexing.md)
